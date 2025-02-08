@@ -1,4 +1,9 @@
+## COPY https://github.com/rebane2001/matterport-dl Modify some functions
+
+
+
 # matterport-dl
+
 A tool to download/archive [Matterport](https://matterport.com) digital twin virtual tours.  Supports most matterport virtual tour links ( ie https://my.matterport.com/show/?m=roWLLMMmPL8 ). This project is not in any way associated with or supported by Matterport Inc in any way all relevant trademarks and rights are reserve Matterport Inc. 
 
 Currently matterport-dl.py is primarily maintained by [@mitchcapper](https://github.com/mitchcapper).
